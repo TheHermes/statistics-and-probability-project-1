@@ -1,1 +1,2 @@
-# Statistik och Sannolikhet - Projekt 1 Statistikräknare
+# Statistics and probability - Project 1 Statistical calculator
+This project, "Statistics Calculator," is an individual assignment designed as an introductory task. It involves implementing a Statistics class in Java with static methods for calculating various statistical measures (e.g., min, max, median, mode, standard deviation, quartiles). Additionally, an Android app must be developed to input data, display statistical results, and visualize the dataset using RecyclerView. Students must clone the provided boilerplate, commit, and push their work on time with clear commit messages, and submit the final result on Itslearning.
