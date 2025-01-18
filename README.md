@@ -1,2 +1,1 @@
-# statistics-and-probability-project-1
-This is the first project for statistics and probability course.
+# Statistik och Sannolikhet - Projekt 1 Statistikräknare
